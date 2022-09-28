@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <head>
     <meta>
@@ -119,7 +118,6 @@ You can provide comments, suggestions, or feedback here.</textarea
 
 
 
-<style>
 main {
   text-align: center;
   background-color: #92869c;
@@ -142,4 +140,3 @@ input, textarea, select, button {
 a {
   color: white;
 }
-</style>
